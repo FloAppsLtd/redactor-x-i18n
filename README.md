@@ -1,1 +1,1 @@
-# Imperavi Redactor x i18n
+# Imperavi Redactor X i18n
