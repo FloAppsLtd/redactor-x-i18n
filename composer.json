@@ -1,0 +1,17 @@
+{
+  "name": "floapps/redactor-x-i18n",
+  "description": "Translations for Imperavi Redactor X widget",
+  "type": "library",
+  "keywords": [
+    "imperavi",
+    "redactor",
+    "i18n",
+    "yii2"
+  ],
+  "license": "BSD-2-Clause",
+  "autoload": {
+    "psr-4": {
+      "FloApps\\RedactorXI18n\\": "src/"
+    }
+  }
+}
