@@ -3,7 +3,7 @@ RedactorX.lang['fi'] = {
         "help-label": "Runsastekstieditori"
     },
     "placeholders": {
-        "figcaption": "Tyypin kuvateksti (valinnainen)"
+        "figcaption": "Tyyppikuvateksti (valinnainen)"
     },
     "popup": {
         "back": "Takaisin",
@@ -16,7 +16,7 @@ RedactorX.lang['fi'] = {
         "meta-a": "Valitse kaikki",
         "meta-z": "Kumoa",
         "meta-shift-z": "Tee uudelleen",
-        "meta-shift-m": "Poista rivimuoto",
+        "meta-shift-m": "Poista inline-muoto",
         "meta-b": "Lihavoitu",
         "meta-i": "Kursiivi",
         "meta-u": "Alleviivaus",
@@ -30,13 +30,13 @@ RedactorX.lang['fi'] = {
         "meta-alt-4": "Otsikko 4",
         "meta-alt-5": "Otsikko 5",
         "meta-alt-6": "Otsikko 6",
-        "meta-shift-7": "Jätetty luettelo",
+        "meta-shift-7": "Järjestetty luettelo",
         "meta-shift-8": "Järjestämätön luettelo",
         "meta-indent": "Sisennys",
-        "meta-outdent": "Outdent",
+        "meta-outdent": "Ulonnus",
         "meta-shift-backspace": "Poista",
         "meta-shift-o": "Lisää",
-        "meta-shift-d": "Kopioi",
+        "meta-shift-d": "Kahdenna",
         "meta-shift-up": "Siirrä ylös",
         "meta-shift-down": "Siirrä alas"
     },
@@ -51,20 +51,20 @@ RedactorX.lang['fi'] = {
         "list": "Lista",
         "image": "Kuva",
         "indent": "Sisennös",
-        "outdent": "Outdent",
+        "outdent": "Ulonnus",
         "embed": "Upota",
         "table": "Taulukko",
         "insert": "Lisää",
         "save": "Tallenna",
         "cancel": "Peruuta",
         "delete": "Poista",
-        "duplicate": "Kopioi",
+        "duplicate": "Kahdenna",
         "shortcut": "Oikopolut",
         "underline": "Alleviivaus",
         "undo": "Kumoa",
         "redo": "Tee uudelleen",
         "code": "Koodi",
-        "mark": "Mark",
+        "mark": "Merkki",
         "subscript": "Alaindeksi",
         "superscript": "Yläindeksi",
         "kbd": "Pikakuvake",
@@ -73,7 +73,7 @@ RedactorX.lang['fi'] = {
     },
     "blocks": {
         "text": "Teksti",
-        "paragraph": "Kohta",
+        "paragraph": "Kappale",
         "image": "Kuva",
         "embed": "Upota",
         "line": "Linja",
@@ -92,12 +92,12 @@ RedactorX.lang['fi'] = {
         "h6": "Otsikko 6",
         "address": "Osoite",
         "ul": "Järjestämätön luettelo",
-        "ol": "Tilattu luettelo",
+        "ol": "Järjestetty luettelo",
         "dl": "Määritelmäluettelo"
     },
     "embed": {
         "embed": "Upota",
-        "caption": "Teksti",
+        "caption": "Kuvateksti",
         "description": "Liitä mikä tahansa embed/html-koodi tai kirjoita URL-osoite (vain vimeo- tai youtube-video)",
         "responsive-video": "Responsiivinen video"
     },
@@ -106,10 +106,10 @@ RedactorX.lang['fi'] = {
         "alt-text": "Vaihtoehtoinen teksti",
         "link": "Linkki",
         "width": "Leveys",
-        "caption": "Teksti",
+        "caption": "Kuvateksti",
         "link-in-new-tab": "Avaa linkki uudessa välilehdessä",
         "url-placeholder": "Liitä kuvan URL-osoite...",
-        "upload-new-placeholder": "Lähetä uusi kuva vetämällä<br>tai valitse napsauttamalla"
+        "upload-new-placeholder": "Lataa uusi kuva vetämällä<br>tai valitse napsauttamalla"
     },
     "link": {
         "link": "Linkki",
@@ -121,10 +121,10 @@ RedactorX.lang['fi'] = {
     },
     "table": {
         "width": "Leveys",
-        "nowrap": "Nowrap",
+        "nowrap": "Ei rivitystä",
         "column": "Sarake",
-        "add-head": "Lisää pää",
-        "remove-head": "Poista pää",
+        "add-head": "Lisää otsikkorivi",
+        "remove-head": "Poista otsikkorivi",
         "add-row-below": "Lisää rivi alle",
         "add-row-above": "Lisää rivi yläpuolelle",
         "remove-row": "Poista rivi",
