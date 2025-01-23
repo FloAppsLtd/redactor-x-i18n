@@ -53,7 +53,7 @@ RedactorX.lang['sv'] = {
         "indent": "Indrag",
         "outdent": "Outdent",
         "embed": "Bädda in",
-        "table": "Bord",
+        "table": "Tabell",
         "insert": "Infoga",
         "save": "Spara",
         "cancel": "Avbryt",
@@ -77,7 +77,7 @@ RedactorX.lang['sv'] = {
         "image": "Bild",
         "embed": "Bädda in",
         "line": "Linje",
-        "table": "Bord",
+        "table": "Tabell",
         "quote": "Citat",
         "pre": "Kod",
         "address": "Adress"
