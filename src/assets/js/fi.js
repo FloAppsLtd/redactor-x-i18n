@@ -43,7 +43,7 @@ RedactorX.lang['fi'] = {
     "buttons": {
         "add": "Lisää",
         "html": "HTML",
-        "format": "Muoto",
+        "format": "Muotoile",
         "bold": "Lihavoitu",
         "italic": "Kursiivi",
         "deleted": "Poistettu",
